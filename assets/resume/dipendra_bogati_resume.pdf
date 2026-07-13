@@ -1,107 +1,279 @@
 %PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:dipendrabogati1776@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 191.36 721.4898 335.46 733.4898 ] /Subtype /Link /Type /Annot
+>>
 endobj
 6 0 obj
-<< /Length 5125 >>
-stream
-q
-0 0 0 rg
-BT /F2 22 Tf 44 796 Td (DIPENDRA BOGATI) Tj ET
-BT /F1 12 Tf 44 772 Td (Flutter & iOS Developer) Tj ET
-BT /F1 8.8 Tf 44 756 Td (Jodhpur, India / Doti, Nepal | +91 9057241670 | dipendrabogati1776@gmail.com) Tj ET
-BT /F1 8.8 Tf 44 745 Td (linkedin.com/in/dipendrabogati | github.com/Dipendrabogati) Tj ET
-44 727 507 0.8 re f
-BT /F2 11 Tf 44 725 Td (PROFILE) Tj ET
-BT /F1 9.5 Tf 44 708 Td (Professional Flutter and iOS developer with 2+ years of experience building Android,) Tj ET
-BT /F1 9.5 Tf 44 696 Td (iOS, and web-ready mobile applications. Strong in Flutter, Dart, Swift, REST API) Tj ET
-BT /F1 9.5 Tf 44 684 Td (integration, Firebase, local storage, production releases, app performance, and polished) Tj ET
-BT /F1 9.5 Tf 44 672 Td (mobile UI delivery.) Tj ET
-44 656 507 0.8 re f
-BT /F2 11 Tf 44 654 Td (SKILLS) Tj ET
-BT /F1 9.5 Tf 44 637 Td (Languages: Dart, Swift, Kotlin, Java, C++) Tj ET
-BT /F1 9.5 Tf 44 625 Td (Frameworks & SDKs: Flutter, Firebase, native iOS, method channels) Tj ET
-BT /F1 9.5 Tf 44 613 Td (State Management: Riverpod, Bloc, Provider, ValueNotifier) Tj ET
-BT /F1 9.5 Tf 44 601 Td (Backend & Data: REST APIs, Cloud Firestore, SQLite, Hive, Google Drive API) Tj ET
-BT /F1 9.5 Tf 44 589 Td (Tools & Platforms: Git, Android Studio, Xcode, VS Code, Figma, Android, iOS, Web) Tj ET
-44 573 507 0.8 re f
-BT /F2 11 Tf 44 571 Td (EXPERIENCE) Tj ET
-BT /F2 10.5 Tf 44 554 Td (Flutter Developer - GTS Infosoft LLP) Tj ET
-BT /F1 9 Tf 44 541 Td (22 Jan, 2024 - Present) Tj ET
-BT /F1 9 Tf 54 529 Td (- Developed and maintained cross-platform Flutter applications for Android and iOS,) Tj ET
-BT /F1 9 Tf 54 518 Td (  integrated REST APIs, implemented state management, optimized performance, and) Tj ET
-BT /F1 9 Tf 54 507 Td (  fixed production issues.) Tj ET
-BT /F1 9 Tf 54 496 Td (- Collaborated with designers and backend developers to deliver reliable,) Tj ET
-BT /F1 9 Tf 54 485 Td (  production-ready mobile solutions.) Tj ET
-BT /F2 10.5 Tf 44 474 Td (iOS Developer - GTS Infosoft LLP) Tj ET
-BT /F1 9 Tf 44 461 Td (July, 2024 - Present) Tj ET
-BT /F1 9 Tf 54 449 Td (- Built and maintained iOS applications using Flutter with native iOS deployment,) Tj ET
-BT /F1 9 Tf 54 438 Td (  managed App Store releases, certificates, provisioning profiles, and iOS-specific) Tj ET
-BT /F1 9 Tf 54 427 Td (  fixes.) Tj ET
-44 412 507 0.8 re f
-BT /F2 11 Tf 44 410 Td (SELECTED PROJECTS) Tj ET
-BT /F2 10.5 Tf 44 393 Td (PaathBook Bhasa - Personal Product) Tj ET
-BT /F1 9 Tf 44 380 Td (Flutter, Riverpod, Localization, Offline Dictionary, AI Fallback) Tj ET
-BT /F1 9 Tf 54 368 Td (- Reading-first language learning product with stories, vocabulary, conversations,) Tj ET
-BT /F1 9 Tf 54 357 Td (  normalized dictionary lookup, and gamified progress.) Tj ET
-BT /F2 10.5 Tf 44 346 Td (Khoj Samachar) Tj ET
-BT /F1 9 Tf 44 333 Td (Flutter, News Feed, Push Notifications, Method Channels, Native Android) Tj ET
-BT /F1 9 Tf 54 321 Td (- Solely developed Android and iOS news app with native Android calendar widget,) Tj ET
-BT /F1 9 Tf 54 310 Td (  custom persistent notification view, and notification scheduling through method) Tj ET
-BT /F1 9 Tf 54 299 Td (  channels.) Tj ET
-BT /F2 10.5 Tf 44 288 Td (WikiBG) Tj ET
-BT /F1 9 Tf 44 275 Td (Flutter, Content Platform, Editorial Workflow) Tj ET
-BT /F1 9 Tf 54 263 Td (- Built a verification-first biography and documentation reading app connected to) Tj ET
-BT /F1 9 Tf 54 252 Td (  the official WikiBG platform.) Tj ET
-BT /F2 10.5 Tf 44 241 Td (PaathBook - Personal Product) Tj ET
-BT /F1 9 Tf 44 228 Td (Flutter, Firebase, SQLite, PDF Tools, Method Channels) Tj ET
-BT /F1 9 Tf 54 216 Td (- Built privacy-focused Nepali GK, grammar, quiz, bilingual learning, and PDF) Tj ET
-BT /F1 9 Tf 54 205 Td (  utility app with Firebase-to-local SQLite sync to reduce backend reads.) Tj ET
-BT /F2 10.5 Tf 44 194 Td (Additional Production Work) Tj ET
-BT /F1 9 Tf 44 181 Td (Flutter and Native iOS) Tj ET
-BT /F1 9 Tf 54 169 Td (- Contributed to EventLocal, The Academix, DartsKey, Timelee, ScanPix, Bender,) Tj ET
-BT /F1 9 Tf 54 158 Td (  Coaching Zone, and Food Dudes across networking, education, productivity, scanner,) Tj ET
-BT /F1 9 Tf 54 147 Td (  social, sports, and delivery domains.) Tj ET
-44 132 507 0.8 re f
-BT /F2 11 Tf 44 130 Td (EDUCATION) Tj ET
-BT /F2 10.5 Tf 44 113 Td (Bachelor of Computer Applications - Your University / College Name) Tj ET
-BT /F1 9 Tf 44 100 Td (20XX - 20XX | City, Country) Tj ET
-BT /F1 9 Tf 54 88 Td (- Placeholder academic entry. Replace with real degree, institution, dates, score,) Tj ET
-BT /F1 9 Tf 54 77 Td (  coursework, projects, awards, or certifications.) Tj ET
-BT /F2 10.5 Tf 44 66 Td (Higher Secondary Education - Your Higher Secondary School Name) Tj ET
-BT /F1 9 Tf 44 53 Td (20XX - 20XX | City, Country) Tj ET
-BT /F1 9 Tf 54 41 Td (- Placeholder entry focused on computer science, mathematics, and analytical problem) Tj ET
-BT /F1 9 Tf 54 30 Td (  solving.) Tj ET
-44 15 507 0.8 re f
-BT /F2 11 Tf 44 13 Td (LINKS) Tj ET
-BT /F1 9.5 Tf 44 -4 Td (App Store / Google Play project links are available in the portfolio project section.) Tj ET
-Q
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/dipendrabogati/)
+>> /Border [ 0 0 0 ] /Rect [ 38.4 705.4898 76.2 717.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Dipendrabogati)
+>> /Border [ 0 0 0 ] /Rect [ 84.36 705.4898 115.48 717.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dipendrabogati1776-cloud.github.io/port_folio/)
+>> /Border [ 0 0 0 ] /Rect [ 123.64 705.4898 160.32 717.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
 
-endstream
+>> /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://apps.apple.com/app/id6741786030)
+>> /Border [ 0 0 0 ] /Rect [ 70.07 711.4898 86.74 723.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.google.com/store/apps/details?id=com.roshan.shrestha.roshan)
+>> /Border [ 0 0 0 ] /Rect [ 94.9 711.4898 129.36 723.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://apps.apple.com/app/id6759668747)
+>> /Border [ 0 0 0 ] /Rect [ 70.07 593.4898 86.74 605.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.google.com/store/apps/details?id=com.wikibg.app)
+>> /Border [ 0 0 0 ] /Rect [ 94.9 593.4898 129.36 605.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://apps.apple.com/app/id6760779307)
+>> /Border [ 0 0 0 ] /Rect [ 70.07 475.4898 86.74 487.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.google.com/store/apps/details?id=com.paathbook.app)
+>> /Border [ 0 0 0 ] /Rect [ 94.9 475.4898 129.36 487.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://apps.apple.com/app/id874271741)
+>> /Border [ 0 0 0 ] /Rect [ 70.07 373.4898 86.74 385.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.google.com/store/apps/details?id=com.event.local)
+>> /Border [ 0 0 0 ] /Rect [ 94.9 373.4898 129.36 385.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://apps.apple.com/app/id6502640514)
+>> /Border [ 0 0 0 ] /Rect [ 70.07 271.4898 86.74 283.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://apps.apple.com/app/id6780764437)
+>> /Border [ 0 0 0 ] /Rect [ 70.07 153.4898 86.74 165.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.google.com/store/apps/details?id=com.key.darts.app)
+>> /Border [ 0 0 0 ] /Rect [ 94.9 153.4898 129.36 165.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://apps.apple.com/app/id6740476818)
+>> /Border [ 0 0 0 ] /Rect [ 70.07 51.48976 86.74 63.48976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Annots [ 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 
+  20 0 R 21 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://apps.apple.com/app/id1281894975)
+>> /Border [ 0 0 0 ] /Rect [ 70.07 711.4898 86.74 723.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://apps.apple.com/app/id1563347365)
+>> /Border [ 0 0 0 ] /Rect [ 70.07 609.4898 86.74 621.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://apps.apple.com/app/id1579274298)
+>> /Border [ 0 0 0 ] /Rect [ 70.07 507.4898 86.74 519.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://apps.apple.com/app/id1180442819)
+>> /Border [ 0 0 0 ] /Rect [ 70.07 405.4898 86.74 417.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/Annots [ 23 0 R 24 0 R 25 0 R 26 0 R ] /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+28 0 obj
+<<
+/PageMode /UseNone /Pages 30 0 R /Type /Catalog
+>>
+endobj
+29 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260713164925+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260713164925+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+30 0 obj
+<<
+/Count 3 /Kids [ 9 0 R 22 0 R 27 0 R ] /Type /Pages
+>>
+endobj
+31 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1894
+>>
+stream
+Gau0CgN)%.%"6H'i2PaSACm"5qm8p7VbZ'tXZbKga9sRs()';>8]kajo'm)cZ@%k,9W'tD>V)$C+E29"\^89UCOc49^uZP"N*L<bR"sV.)f:s<i-KkGj30)u[efd'f682$rh,<bE2dQ<jRN^T]-SR@N=jA:[r9&EcTo%SG,*[Sp2PL%5]&KP?Jc4,?,5QgRu@+;4j5!UrWgqs\"Wc(pt>D8e(O;#a0]JQ]*#Oin+R.tfA>T+W)_Vim5*6]4O]`kGR*TY%#/jm\O`^Tpp,Nn`0[?Jba2Af3n)?u@q_@Dk&3["V3uG`)gNPu7jN(^S-4ed$Oh`$%c#HrE9iPSa%"Qfe>A@!kb!$0K3X'#JI@*BVrtJDDQemN`K'NEF\EW:4D,bc!g_7[OCTN#6o2=(li+:Kq]!8*9.+HfQ9<T'SE+>62JP0EJ'8[T&#VbZ:iIc4+g$c5GHf3PiF7!mfo9UUjgKK^BR-0B!#hDWZSh5I0X,EYgc%6l9r/,p;G8?h_^p^U,+hYXeeoH=>,Qd0]19pG:J=::S\m60;Lo)sh=ca*`''&+5(uGFGefK=faq].`XQm<q%5.XOouPdUa]q?0l*eo^.Re("Mn@M'V79<,Z6]XHX\/tq0"oj_o6_V4#C58MrDI-8\-%%3l$H1rWGV&o3L;U[\>MlJHH3r?;]`JBel>1(XFg1&G[ME@A\aS+=X5a@<<n31+)-m,1S5VrtZBp<IESf!0M`K2"bu<B`k4XO,9`aN6HA]O4'ml#K_RmY:4Kc75W*52Y!e?8qL]3`I`)5*NUK2s.;ikainJrmC2Z343G/Ej'LYU5!rlfKbC)6a^f]?!;A>bl!)A_fC[d9ms/3+8uaS9p[:&;Iug$pioVLSI7Q3oi)a7mV<TKWg15NS\t,c%Y3^5>Z%kOrk_P%1MB[P72FKh0O<r.S<j9[?JUH53=&&hh?LS]cAcj``191$W?3uWK'"LS<SH2`,R8>G1K<ud#,O-I:/HVq;$iJ"=4[?rO;>j!S37B2$cuSgqQF4D5cLS-8]ICb-)1R*&IP7tMoR:]P[3gr5R:=sad0/*8_1&=Ig\_5?$K4p_=_J4G]oZ^B9[OOU(h-a8ZfXqeV:7Gn\&IYUZ.Fh!,mciU6D1f71]_%lCOEs_@<.c3?V=L:nCqJ^:AlSL7Ug"kN,s-qYh/1]@uB%5:/b^jP%BAV=,23RV]gF#RPPZ=>I#F_>b.Kg%3?`c@eqA2UVb#/)h+de/_eO]QW2pK(.IoAf(U?/<p<t2OTcLo)9OpX,K(3n2O&r8\>K[`B(b/)W>?9bb'%rbXj4b/5fNuIn*bpBoM-5](;o&Opi,%'%oHtH-eQ9Upk\,=Y#f&VL#<\*3)2K1;U0A"0]Bf3^'G;Cq[>@*r%heAT2go,Ka:`[(RU43,7"4FMcY_dmet-ppjgWf'rDMC]jA1*l)e#TECu%I/qnP'bD7RPGP?M4(ZP)h1VkM4@o,(l(RUr>gP.l9]>nV6>K_VV-**b.=UuIk:!@ER:-`1'&.9!Tc"rldTbLEiL(WD"oU^^7CR\6&3hfVK(0dWZljRI;/MW]\hkfOiAgAY9<U8Ye<DoBs!Fm>g=VBfB#1/<..*<%$n.LY<>B^Oifik%sOl/Zn4]2fET.0CJAR8Op&%QpGOD6%W@dYN4:t.iZQ%kq?#V9XW<_Qm8;1,V&(_PXnORL-:pol$K.::j/QWS\A(.XUV(b(Duca//)mo>b;KkOqkIUq)eEo]4?RaoS=Q)1H6$<jsQjflj7h+Y&q9GLuu8uJ1b.tb;O3440q4L:#^TgN6K,TY#DUtHq6Mt((?^G^tVNgAMhC[>K[I>YrFbXbG*Lr`r*\_g:mGrrX5:C>Qdh?KjFMBGu@Ii[(c<(A-_X2luTj+FskE[cZ]02-?Y+,?-Kkl~>endstream
+endobj
+32 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1331
+>>
+stream
+GauHKh/D%+&:`#5EKB?lVbu`ul/)!m/m-Q5Z[i+q?>/ULEM7Uq8_J765CQ*pNZC.%Jh/SY=>E;dO8ODGQ,"PM8c4i"^tBFYNtP!D@%'A:3#KI')D7q7s6M%KcOVDY3'80%$r0!Xn/-VnK9H*k-c[nm+ZU#7A#R9Vl7cO&#FPJlqgTp0+\YG%?:'Nje5Ti`^-EP"g3^2'dS+?X;,pdki>!6OaMOoJ/ZBG;8O7cmJ45I7iP@UCrk/p?eriNW4Dp2R@jIlfK*Wm(`4hENdD/)F3I79%GRg'CF9O]rL!n.^fX"aqcbj>]4I&a:Fintd*Xm=ZXV/VAr'mBB>C$1mH#$aNKC2JMR+>H/S<L0VkJ_``ckjWg(W%$=DB80Dkc!=irJ;n[^Vr.tmG<WNYg7[G4M]:OV;7.+LBB9<?hs!&qs2AEVr18ZO#HMklJfF*X7"KjVbTFHS6,%R\OD,5a%]DHL,A!!h=d#dW'.X%f(\*m9Z1PEKkK&]*aGS"2bOGd[q+q_9oC(JiXE!"@r<M0*P``XkaIt[:c#d%,O%Q;MVT[jLuW#c8"aVgk`TE!PiFlOTZ+IY"[C3FEB[C-$rQ%/P[WE+'DJgeA'/M>BYnuRNJRDP6'thR$`j32a&8;*4>*iS[Gri;GX9o!9YkpSQW<7V1SP>5afC7V(;^l#7!Gir)E3XY_IOLYZ)+gnrXJ*N;ANp39g+kk]iL`n2iX9P>;c._Hng4%O`iBd?+!:I[@jNkq(Z7C;W=^X1mSTm>$(VT$[U6I2Q^r+`kJ@b-HX@eCB_1(P3L3dKpXY>n!LB8+O])6fSAK7:$c;Jg8<H_SG2;0/EfOXH:-8BCKJ=7%;_CYJ"k:rPo,nKT0ZLs+Hn!2PEb9UTY[;k4,0D*4doX:Yr=4;"5Es$;HFV16?FHGqf,q6AQbK;=^n1P@nM^_mF!_LNaI&%fLC#+.QWh=`DV-A*Nl#jEip0:L^``2U@Q%__Qj``:2-_,R%U!#L91Qu`OuM4-?FGC*FpRGc,F0cm;4lD6!OD[ZZ/ll?r@-sHS&/!Q`YuZP-bu\ZJG,qrt+L[!%*?MT.PXag`O&]*I=VbE%Xbi![a(k%RE[!\jfKVM[a5mf^IJVlPUco<RpC.b4JL*N%hCd];WV[PcIJBS0k8E-TnEQ2&4QD%?PX;&/HD#4i>C^W`e.!7dMVJi6#m)7fCuAAd;2=_rK?^QLi[`cXZd].;>jL?A\JgTeb1g[/I-2LW69P)r<a8'&cKLEQMI:s#f"0]sK=uG%eLr?iKum"Z3VC-rIGeog;l1pn=poo*kn$P=n,=f(h3FJ#$3?qdp2Urk]<R$G;(k@IIQ3Agq'~>endstream
+endobj
+33 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1112
+>>
+stream
+GauI5hfGPN&BE]"=6q0`E<oql4+4a=RRrtjDW1#WP8@@Q7L_mf')'_f^+3VR^*IpeA0r1+YUm/nkk!W\&jo&gm-hRf36gFG157c>]S&6R;ol0$,!Ykc+Ps1>cY.>;9uD'r1*[`a6q6^lcg2M>#3'-*G]]?=*'%)_^[r.jN&*I1h`a@*pCPJ3L]!LPe\NiD@YGrmZCe>DO]PH2C+7O-qIF:?fijV`"S;6.&R6#CKQFNAX\a$@G@anbM3.CnO5NVOIVrAWGFDUWT_IM6"o%P/$E'Gn/JO(d%8%"_Fs'Z">1a2/q(9%(J]WM@KGAMF54N[DZo'lL=?rpl&RD_a<HcgFZWc#\d;X$%R8k/tDp_>`>>A]q>5^b='>9F$a]nF!79Q;_5e4$4B:`[hH6kP>&c@Ke[\?'t6"AQ1i;O7qm7'btCUH&reJL-F2mEkGRVC2I(p6o<H`s1eGFAuPQH3m?dCb)iPA'kpD9`jU("%QHPf+)skc6+._3lK4P5aUb)Rs4=/\M@lQ.(YFcn,[XU33]4Bm#FdXAqp:q0'[#0%tYEP=G(HV7BR*JFfp/o7=L.Ya2;#c?]`8NB1"SXg4Z86_9bhOsPXEFd`oh>nr;`BrZU@4n8bR?nHbK4@_TFEuC[jU3"I\"dZ1OJZKBI(5(D$Z=8A">7%.`6*Kg#?`u.Ua74B]iAd7$-P0$bdJ+t1FhUp4F[Gq+8:AsV3D"j]U)T3-'(O![1.bh5==KLA^'7RM\>CQe)Q7K;X]BB_S=Y/Cs7AWe"MZYl[nJS$iG6aJI$%/A6eqj)i4@qZ4VaZq_NJ!cFYMFIUpJOZ(s$Mp:`>Jr,YI(n,WVaZF;)a-+''(`<,%,OECc=f]^P:N,:Jpj@'&e+:PE4d6.J^tasbM>%g:?#M[`DNm1(Gr[F,Rt8?#'17#bEj!INW$I`V$A+sc2-Mf@e'pkCgf,>J@tj-6M_$-cJ;naL,b^GA_cVhQ-Z'gZ\o.p4PUMi:_0eK/Kg*O*O2qcKE527c,Q`3LR(AnR%VHlG7"biV&^Md0)[J(a8]_GaOS[T":#qK[DYL=lpu-9.]9X5:A&%dX]*`pl<d%ahj8$d+<,Ws,':Uj0T,ICqZTLP,U,e]HfK~>endstream
 endobj
 xref
-0 7
+0 34
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000251 00000 n 
-0000000321 00000 n 
-0000000396 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000450 00000 n 
+0000000633 00000 n 
+0000000820 00000 n 
+0000001000 00000 n 
+0000001202 00000 n 
+0000001443 00000 n 
+0000001629 00000 n 
+0000001848 00000 n 
+0000002034 00000 n 
+0000002241 00000 n 
+0000002427 00000 n 
+0000002637 00000 n 
+0000002822 00000 n 
+0000003030 00000 n 
+0000003216 00000 n 
+0000003402 00000 n 
+0000003612 00000 n 
+0000003798 00000 n 
+0000004103 00000 n 
+0000004289 00000 n 
+0000004475 00000 n 
+0000004661 00000 n 
+0000004847 00000 n 
+0000005093 00000 n 
+0000005163 00000 n 
+0000005444 00000 n 
+0000005518 00000 n 
+0000007504 00000 n 
+0000008927 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<<
+/ID 
+[<6e5bf099248f14265cb430b4cd40a0de><6e5bf099248f14265cb430b4cd40a0de>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 29 0 R
+/Root 28 0 R
+/Size 34
+>>
 startxref
-5573
+10131
 %%EOF
