@@ -1,0 +1,107 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 5125 >>
+stream
+q
+0 0 0 rg
+BT /F2 22 Tf 44 796 Td (DIPENDRA BOGATI) Tj ET
+BT /F1 12 Tf 44 772 Td (Flutter & iOS Developer) Tj ET
+BT /F1 8.8 Tf 44 756 Td (Jodhpur, India / Doti, Nepal | +91 9057241670 | dipendrabogati1776@gmail.com) Tj ET
+BT /F1 8.8 Tf 44 745 Td (linkedin.com/in/dipendrabogati | github.com/Dipendrabogati) Tj ET
+44 727 507 0.8 re f
+BT /F2 11 Tf 44 725 Td (PROFILE) Tj ET
+BT /F1 9.5 Tf 44 708 Td (Professional Flutter and iOS developer with 2+ years of experience building Android,) Tj ET
+BT /F1 9.5 Tf 44 696 Td (iOS, and web-ready mobile applications. Strong in Flutter, Dart, Swift, REST API) Tj ET
+BT /F1 9.5 Tf 44 684 Td (integration, Firebase, local storage, production releases, app performance, and polished) Tj ET
+BT /F1 9.5 Tf 44 672 Td (mobile UI delivery.) Tj ET
+44 656 507 0.8 re f
+BT /F2 11 Tf 44 654 Td (SKILLS) Tj ET
+BT /F1 9.5 Tf 44 637 Td (Languages: Dart, Swift, Kotlin, Java, C++) Tj ET
+BT /F1 9.5 Tf 44 625 Td (Frameworks & SDKs: Flutter, Firebase, native iOS, method channels) Tj ET
+BT /F1 9.5 Tf 44 613 Td (State Management: Riverpod, Bloc, Provider, ValueNotifier) Tj ET
+BT /F1 9.5 Tf 44 601 Td (Backend & Data: REST APIs, Cloud Firestore, SQLite, Hive, Google Drive API) Tj ET
+BT /F1 9.5 Tf 44 589 Td (Tools & Platforms: Git, Android Studio, Xcode, VS Code, Figma, Android, iOS, Web) Tj ET
+44 573 507 0.8 re f
+BT /F2 11 Tf 44 571 Td (EXPERIENCE) Tj ET
+BT /F2 10.5 Tf 44 554 Td (Flutter Developer - GTS Infosoft LLP) Tj ET
+BT /F1 9 Tf 44 541 Td (22 Jan, 2024 - Present) Tj ET
+BT /F1 9 Tf 54 529 Td (- Developed and maintained cross-platform Flutter applications for Android and iOS,) Tj ET
+BT /F1 9 Tf 54 518 Td (  integrated REST APIs, implemented state management, optimized performance, and) Tj ET
+BT /F1 9 Tf 54 507 Td (  fixed production issues.) Tj ET
+BT /F1 9 Tf 54 496 Td (- Collaborated with designers and backend developers to deliver reliable,) Tj ET
+BT /F1 9 Tf 54 485 Td (  production-ready mobile solutions.) Tj ET
+BT /F2 10.5 Tf 44 474 Td (iOS Developer - GTS Infosoft LLP) Tj ET
+BT /F1 9 Tf 44 461 Td (July, 2024 - Present) Tj ET
+BT /F1 9 Tf 54 449 Td (- Built and maintained iOS applications using Flutter with native iOS deployment,) Tj ET
+BT /F1 9 Tf 54 438 Td (  managed App Store releases, certificates, provisioning profiles, and iOS-specific) Tj ET
+BT /F1 9 Tf 54 427 Td (  fixes.) Tj ET
+44 412 507 0.8 re f
+BT /F2 11 Tf 44 410 Td (SELECTED PROJECTS) Tj ET
+BT /F2 10.5 Tf 44 393 Td (PaathBook Bhasa - Personal Product) Tj ET
+BT /F1 9 Tf 44 380 Td (Flutter, Riverpod, Localization, Offline Dictionary, AI Fallback) Tj ET
+BT /F1 9 Tf 54 368 Td (- Reading-first language learning product with stories, vocabulary, conversations,) Tj ET
+BT /F1 9 Tf 54 357 Td (  normalized dictionary lookup, and gamified progress.) Tj ET
+BT /F2 10.5 Tf 44 346 Td (Khoj Samachar) Tj ET
+BT /F1 9 Tf 44 333 Td (Flutter, News Feed, Push Notifications, Method Channels, Native Android) Tj ET
+BT /F1 9 Tf 54 321 Td (- Solely developed Android and iOS news app with native Android calendar widget,) Tj ET
+BT /F1 9 Tf 54 310 Td (  custom persistent notification view, and notification scheduling through method) Tj ET
+BT /F1 9 Tf 54 299 Td (  channels.) Tj ET
+BT /F2 10.5 Tf 44 288 Td (WikiBG) Tj ET
+BT /F1 9 Tf 44 275 Td (Flutter, Content Platform, Editorial Workflow) Tj ET
+BT /F1 9 Tf 54 263 Td (- Built a verification-first biography and documentation reading app connected to) Tj ET
+BT /F1 9 Tf 54 252 Td (  the official WikiBG platform.) Tj ET
+BT /F2 10.5 Tf 44 241 Td (PaathBook - Personal Product) Tj ET
+BT /F1 9 Tf 44 228 Td (Flutter, Firebase, SQLite, PDF Tools, Method Channels) Tj ET
+BT /F1 9 Tf 54 216 Td (- Built privacy-focused Nepali GK, grammar, quiz, bilingual learning, and PDF) Tj ET
+BT /F1 9 Tf 54 205 Td (  utility app with Firebase-to-local SQLite sync to reduce backend reads.) Tj ET
+BT /F2 10.5 Tf 44 194 Td (Additional Production Work) Tj ET
+BT /F1 9 Tf 44 181 Td (Flutter and Native iOS) Tj ET
+BT /F1 9 Tf 54 169 Td (- Contributed to EventLocal, The Academix, DartsKey, Timelee, ScanPix, Bender,) Tj ET
+BT /F1 9 Tf 54 158 Td (  Coaching Zone, and Food Dudes across networking, education, productivity, scanner,) Tj ET
+BT /F1 9 Tf 54 147 Td (  social, sports, and delivery domains.) Tj ET
+44 132 507 0.8 re f
+BT /F2 11 Tf 44 130 Td (EDUCATION) Tj ET
+BT /F2 10.5 Tf 44 113 Td (Bachelor of Computer Applications - Your University / College Name) Tj ET
+BT /F1 9 Tf 44 100 Td (20XX - 20XX | City, Country) Tj ET
+BT /F1 9 Tf 54 88 Td (- Placeholder academic entry. Replace with real degree, institution, dates, score,) Tj ET
+BT /F1 9 Tf 54 77 Td (  coursework, projects, awards, or certifications.) Tj ET
+BT /F2 10.5 Tf 44 66 Td (Higher Secondary Education - Your Higher Secondary School Name) Tj ET
+BT /F1 9 Tf 44 53 Td (20XX - 20XX | City, Country) Tj ET
+BT /F1 9 Tf 54 41 Td (- Placeholder entry focused on computer science, mathematics, and analytical problem) Tj ET
+BT /F1 9 Tf 54 30 Td (  solving.) Tj ET
+44 15 507 0.8 re f
+BT /F2 11 Tf 44 13 Td (LINKS) Tj ET
+BT /F1 9.5 Tf 44 -4 Td (App Store / Google Play project links are available in the portfolio project section.) Tj ET
+Q
+
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5573
+%%EOF
