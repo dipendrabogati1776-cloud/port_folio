@@ -73,36 +73,43 @@ class ResumeSection extends StatelessWidget {
               builder: (context, constraints) {
                 final isCompact = constraints.maxWidth < 760;
 
-                return Flex(
-                  direction: isCompact ? Axis.vertical : Axis.horizontal,
+                final included = _ResumePreviewColumn(
+                  title: 'Included',
+                  items: const [
+                    'Professional summary',
+                    'Technical skills',
+                    'GTS Infosoft LLP experience',
+                    'Featured Flutter and iOS projects',
+                  ],
+                );
+                final academic = _ResumePreviewColumn(
+                  title: 'Academic',
+                  items: [
+                    for (final item in educationItems)
+                      '${item.degree} · ${item.institution}',
+                  ],
+                );
+
+                if (isCompact) {
+                  // Vertical stack — no Flexible needed, cards size to their content.
+                  return Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      included,
+                      const SizedBox(height: 18),
+                      academic,
+                    ],
+                  );
+                }
+
+                // Horizontal split — each column takes equal width.
+                return Row(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Flexible(
-                      fit: isCompact ? FlexFit.loose : FlexFit.tight,
-                      child: _ResumePreviewColumn(
-                        title: 'Included',
-                        items: const [
-                          'Professional summary',
-                          'Technical skills',
-                          'GTS Infosoft LLP experience',
-                          'Featured Flutter and iOS projects',
-                        ],
-                      ),
-                    ),
-                    SizedBox(
-                      width: isCompact ? 0 : 18,
-                      height: isCompact ? 18 : 0,
-                    ),
-                    Flexible(
-                      fit: isCompact ? FlexFit.loose : FlexFit.tight,
-                      child: _ResumePreviewColumn(
-                        title: 'Academic',
-                        items: [
-                          for (final item in educationItems)
-                            '${item.degree} · ${item.institution}',
-                        ],
-                      ),
-                    ),
+                    Expanded(child: included),
+                    const SizedBox(width: 18),
+                    Expanded(child: academic),
                   ],
                 );
               },

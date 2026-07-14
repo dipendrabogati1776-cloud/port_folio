@@ -11,7 +11,7 @@ class GradientBorderCard extends StatelessWidget {
     this.margin,
     this.radius = 22,
     this.borderWidth = 1,
-    this.gradient = AppColors.brandGradient,
+    this.gradient = AppColors.primaryGradient,
     this.innerColor = AppColors.surface,
     this.isHighlighted = false,
     this.width,

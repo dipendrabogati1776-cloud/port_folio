@@ -23,16 +23,4 @@ class AppColors {
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
   );
-
-  static const brandGradient = LinearGradient(
-    colors: [purple, red],
-    begin: Alignment.topLeft,
-    end: Alignment.bottomRight,
-  );
-
-  static const cardBorderGradient = LinearGradient(
-    colors: [Color(0xBB8F5BFF), Color(0x9938BDF8), Color(0x668F5BFF)],
-    begin: Alignment.topLeft,
-    end: Alignment.bottomRight,
-  );
 }

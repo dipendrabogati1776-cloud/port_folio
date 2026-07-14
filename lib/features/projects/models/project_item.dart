@@ -18,6 +18,9 @@ class ProjectItem {
     this.googlePlayUrl,
     this.websiteUrl,
     this.githubUrl,
+    this.downloads,
+    this.reviews,
+    this.ratings,
   });
 
   final String name;
@@ -36,4 +39,7 @@ class ProjectItem {
   final String? googlePlayUrl;
   final String? websiteUrl;
   final String? githubUrl;
+  final String? downloads;
+  final String? reviews;
+  final String? ratings;
 }

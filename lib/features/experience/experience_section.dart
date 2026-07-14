@@ -109,7 +109,10 @@ class _TimelineItem extends StatelessWidget {
                           style: Theme.of(context).textTheme.titleLarge,
                         ),
                         Chip(
-                          label: Text(item.duration),
+                          label: Text(
+                            item.duration,
+                            overflow: TextOverflow.ellipsis,
+                          ),
                           backgroundColor: AppColors.purple.withValues(
                             alpha: 0.1,
                           ),
@@ -123,6 +126,7 @@ class _TimelineItem extends StatelessWidget {
                     ShaderMask(
                       shaderCallback: (bounds) =>
                           AppColors.primaryGradient.createShader(bounds),
+                      blendMode: BlendMode.srcIn,
                       child: Text(
                         item.company,
                         style: Theme.of(

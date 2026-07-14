@@ -108,6 +108,7 @@ class _HeroCopy extends StatelessWidget {
             ),
             child: Text(
               'Available for Mobile App Development',
+              textAlign: TextAlign.center,
               style: textTheme.labelLarge?.copyWith(
                 color: AppColors.blue,
                 fontWeight: FontWeight.w800,
@@ -119,7 +120,7 @@ class _HeroCopy extends StatelessWidget {
             'Dipendra Bogati',
             textAlign: centered ? TextAlign.center : TextAlign.left,
             style: textTheme.displayLarge?.copyWith(
-              fontSize: centered ? 54 : 72,
+              fontSize: centered ? 40 : 72,
             ),
           ),
           const SizedBox(height: 16),
@@ -176,7 +177,7 @@ class _ProfilePlaceholder extends StatelessWidget {
       child: Container(
         decoration: const BoxDecoration(
           shape: BoxShape.circle,
-          gradient: AppColors.brandGradient,
+          gradient: AppColors.primaryGradient,
         ),
         padding: const EdgeInsets.all(3),
         child: ClipOval(

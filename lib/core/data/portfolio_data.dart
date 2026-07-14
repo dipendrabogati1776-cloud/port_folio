@@ -171,6 +171,9 @@ const projects = [
     platform: 'Flutter',
     role: 'Flutter Developer',
     icon: Icons.newspaper_rounded,
+    downloads: "250K+",
+    reviews: "13.2k",
+    ratings: "4.9",
     technologies: [
       'Flutter',
       'Dart',
@@ -211,6 +214,7 @@ const projects = [
     platform: 'Flutter',
     role: 'Flutter Developer',
     icon: Icons.fact_check_rounded,
+    downloads: "3K+",
     technologies: [
       'Flutter',
       'Dart',
@@ -242,6 +246,9 @@ const projects = [
         'A privacy-focused educational app for Nepali GK, grammar, quizzes, bilingual learning, and lightweight PDF utilities for students and self-learners.',
     platform: 'Flutter',
     role: 'Flutter Developer',
+    downloads: "2.6K+",
+    reviews: "56",
+    ratings: "5.0",
     icon: Icons.cast_for_education_rounded,
     technologies: [
       'Flutter',

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../core/data/portfolio_data.dart';
+import '../../core/models/portfolio_models.dart';
 import '../../core/theme/app_colors.dart';
 import '../../core/widgets/animated_reveal.dart';
 import '../../core/widgets/gradient_border_card.dart';
@@ -28,59 +29,94 @@ class SkillsSection extends StatelessWidget {
                 'A strong foundation in Flutter, Dart, Firebase, REST APIs, state management, and native iOS development, with a focus on building scalable, maintainable, and production-ready mobile applications.',
           ),
           const SizedBox(height: 34),
-          GridView.builder(
-            shrinkWrap: true,
-            physics: const NeverScrollableScrollPhysics(),
-            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-              crossAxisCount: isMobile ? 1 : (isTablet ? 2 : 3),
-              crossAxisSpacing: 18,
-              mainAxisSpacing: 18,
-              childAspectRatio: isMobile ? 1.7 : 1.35,
-            ),
-            itemCount: skillCategories.length,
-            itemBuilder: (context, index) {
-              final category = skillCategories[index];
-              return AnimatedReveal(
-                delay: Duration(milliseconds: 65 * index),
-                child: HoverLift(
-                  child: GradientBorderCard(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Row(
-                          children: [
-                            Icon(category.icon, color: AppColors.purple),
-                            const SizedBox(width: 12),
-                            Text(
-                              category.title,
-                              style: Theme.of(context).textTheme.titleLarge,
-                            ),
-                          ],
-                        ),
-                        const SizedBox(height: 18),
-                        Wrap(
-                          spacing: 8,
-                          runSpacing: 8,
-                          children: [
-                            for (final skill in category.skills)
-                              Chip(
-                                label: Text(skill),
-                                backgroundColor: AppColors.surfaceHigh,
-                                side: const BorderSide(
-                                  color: Color(0xFF2A2A38),
-                                ),
-                              ),
-                          ],
-                        ),
-                      ],
+          if (isMobile)
+            Column(
+              children: [
+                for (var index = 0; index < skillCategories.length; index++) ...[
+                  if (index > 0) const SizedBox(height: 18),
+                  AnimatedReveal(
+                    delay: Duration(milliseconds: 65 * index),
+                    child: HoverLift(
+                      child: GradientBorderCard(
+                        child: _SkillCategoryContent(
+                            category: skillCategories[index]),
+                      ),
                     ),
                   ),
-                ),
-              );
-            },
-          ),
+                ],
+              ],
+            )
+          else
+            LayoutBuilder(
+              builder: (context, constraints) {
+                const spacing = 18.0;
+                final colCount = isTablet ? 2 : 3;
+                final colWidth =
+                    (constraints.maxWidth - spacing * (colCount - 1)) /
+                        colCount;
+                return Wrap(
+                  spacing: spacing,
+                  runSpacing: spacing,
+                  children: [
+                    for (var index = 0; index < skillCategories.length; index++)
+                      SizedBox(
+                        width: colWidth,
+                        child: AnimatedReveal(
+                          delay: Duration(milliseconds: 65 * index),
+                          child: HoverLift(
+                            child: GradientBorderCard(
+                              child: _SkillCategoryContent(
+                                  category: skillCategories[index]),
+                            ),
+                          ),
+                        ),
+                      ),
+                  ],
+                );
+              },
+            ),
         ],
       ),
+    );
+  }
+}
+
+class _SkillCategoryContent extends StatelessWidget {
+  const _SkillCategoryContent({required this.category});
+
+  final SkillCategory category;
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Row(
+          children: [
+            Icon(category.icon, color: AppColors.purple),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Text(
+                category.title,
+                style: Theme.of(context).textTheme.titleLarge,
+              ),
+            ),
+          ],
+        ),
+        const SizedBox(height: 18),
+        Wrap(
+          spacing: 8,
+          runSpacing: 8,
+          children: [
+            for (final skill in category.skills)
+              Chip(
+                label: Text(skill),
+                backgroundColor: AppColors.surfaceHigh,
+                side: const BorderSide(color: Color(0xFF2A2A38)),
+              ),
+          ],
+        ),
+      ],
     );
   }
 }

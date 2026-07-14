@@ -28,45 +28,84 @@ class AboutSection extends StatelessWidget {
                 'Flutter & iOS developer with professional experience building cross-platform mobile applications. I enjoy transforming ideas into polished products with clean architecture, smooth user experiences, and maintainable code.',
           ),
           const SizedBox(height: 34),
-          GridView.builder(
-            shrinkWrap: true,
-            physics: const NeverScrollableScrollPhysics(),
-            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-              crossAxisCount: isMobile ? 1 : 3,
-              crossAxisSpacing: 18,
-              mainAxisSpacing: 18,
-              childAspectRatio: isMobile ? 1.7 : 1.1,
-            ),
-            itemCount: aboutCards.length,
-            itemBuilder: (context, index) {
-              final card = aboutCards[index];
-              return AnimatedReveal(
-                delay: Duration(milliseconds: 90 * index),
-                child: HoverLift(
-                  child: GradientBorderCard(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Icon(card.icon, color: AppColors.purple, size: 30),
-                        const SizedBox(height: 20),
-                        Text(
-                          card.title,
-                          style: Theme.of(context).textTheme.titleLarge,
+          if (isMobile)
+            Column(
+              children: [
+                for (var index = 0; index < aboutCards.length; index++) ...[
+                  if (index > 0) const SizedBox(height: 18),
+                  AnimatedReveal(
+                    delay: Duration(milliseconds: 90 * index),
+                    child: HoverLift(
+                      child: GradientBorderCard(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Icon(aboutCards[index].icon,
+                                color: AppColors.purple, size: 30),
+                            const SizedBox(height: 20),
+                            Text(
+                              aboutCards[index].title,
+                              style: Theme.of(context).textTheme.titleLarge,
+                            ),
+                            const SizedBox(height: 10),
+                            Text(
+                              aboutCards[index].description,
+                              style: Theme.of(context).textTheme.bodyMedium,
+                            ),
+                          ],
                         ),
-                        const SizedBox(height: 10),
-                        Expanded(
-                          child: Text(
-                            card.description,
-                            style: Theme.of(context).textTheme.bodyMedium,
-                          ),
-                        ),
-                      ],
+                      ),
                     ),
                   ),
-                ),
-              );
-            },
-          ),
+                ],
+              ],
+            )
+          else
+            LayoutBuilder(
+              builder: (context, constraints) {
+                const spacing = 18.0;
+                final colCount = 3;
+                final colWidth =
+                    (constraints.maxWidth - spacing * (colCount - 1)) /
+                        colCount;
+                return Wrap(
+                  spacing: spacing,
+                  runSpacing: spacing,
+                  children: [
+                    for (var index = 0; index < aboutCards.length; index++)
+                      SizedBox(
+                        width: colWidth,
+                        child: AnimatedReveal(
+                          delay: Duration(milliseconds: 90 * index),
+                          child: HoverLift(
+                            child: GradientBorderCard(
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Icon(aboutCards[index].icon,
+                                      color: AppColors.purple, size: 30),
+                                  const SizedBox(height: 20),
+                                  Text(
+                                    aboutCards[index].title,
+                                    style:
+                                        Theme.of(context).textTheme.titleLarge,
+                                  ),
+                                  const SizedBox(height: 10),
+                                  Text(
+                                    aboutCards[index].description,
+                                    style:
+                                        Theme.of(context).textTheme.bodyMedium,
+                                  ),
+                                ],
+                              ),
+                            ),
+                          ),
+                        ),
+                      ),
+                  ],
+                );
+              },
+            ),
         ],
       ),
     );
