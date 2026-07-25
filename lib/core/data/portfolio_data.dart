@@ -15,8 +15,8 @@ const navItems = [
   NavItem(label: 'Contact', sectionId: PortfolioSectionId.contact),
 ];
 
-const resumeAssetPath = 'assets/resume/dipendra_bogati_resume.pdf';
-const resumeFileName = 'dipendra_bogati_resume.pdf';
+const resumeAssetPath = 'assets/resume/flutter_iOS_resume.pdf';
+const resumeFileName = 'flutter_iOS_resume.pdf';
 
 const aboutCards = [
   InfoCardData(
@@ -156,6 +156,8 @@ const projects = [
     isFeatured: true,
     contributionLabel: 'Solely developed',
     ownershipLabel: 'Personal Product',
+    googlePlayUrl:
+        "https://play.google.com/store/apps/details?id=com.pathbook.bhasa.app",
     screenshots: [
       'assets/bhasa/bhasa_home.jpg',
       'assets/bhasa/bhasa_dictionary.jpg',
