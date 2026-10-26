@@ -32,7 +32,7 @@ Flutter & iOS Developer
 
 Location
 
-Jodhpur, Rajasthan, India | Doti, Nepal
+Jodhpur, Rajasthan, India 
 
 Phone
 
@@ -52,7 +52,7 @@ github.com/Dipendrabogati
 
 Portfolio
 
-https://dipendrabogati1776-cloud.github.io/port_folio/
+https://paathbook.com/port-folio/
 
 IMPORTANT
 
@@ -70,18 +70,18 @@ These texts must be clickable hyperlinks.
 
 PROFESSIONAL SUMMARY
 
-Flutter & iOS Developer with 3+ years of Flutter development experience (training, internship, and professional), including 2+ years of full-time professional experience building production Android and iOS applications.
+Flutter & iOS Developer with 3+ years of professional experience building production-ready Flutter and iOS applications for Android and iOS.
 
-Experienced in Flutter, Dart, Swift, REST APIs, Firebase, SQLite, Hive, Riverpod, Bloc, Method Channels, offline-first architecture, native Android & iOS development, App Store & Google Play deployment, and performance optimization.
+Skilled in Flutter, Dart, Swift, Firebase, REST APIs, local databases, method channels, offline-first architecture, App Store deployment, Google Play deployment, in-app purchases, notifications, and native platform integrations.
 
-Passionate about building scalable, production-ready mobile applications.
+Experienced in delivering real-world apps across education, news, events, productivity, scanning, sports, pet care, live video marketplaces, social networking, and food delivery domains.
 
 PROFESSIONAL EXPERIENCE
 Flutter Developer
 
 GTS Infosoft LLP
 
-Jan 2024 – Present
+Jan 2024 – Oct 2026
 
 • Developed and maintained cross-platform Flutter applications for Android and iOS.
 
@@ -97,7 +97,7 @@ iOS Developer
 
 GTS Infosoft LLP
 
-Jul 2024 – Present
+Jul 2024 – Oct 2026
 
 DO NOT mention Flutter here.
 
@@ -147,7 +147,7 @@ Firebase, REST APIs, Cloud Firestore, Google Drive API
 
 State Management
 
-Riverpod, Bloc, Provider
+Riverpod, Bloc, Provider, ValueNotifier
 
 Databases
 
@@ -206,6 +206,52 @@ Create ONE heading
 Flutter Projects
 
 Then list all Flutter projects underneath.
+
+Dkrop
+
+Subtitle
+
+Official mobile app for Dkrop Media Group · English, Nepali, and Hindi
+
+Technologies
+
+Flutter
+
+Multilingual
+
+News Platform
+
+PDF Utilities
+
+Account Sync
+
+Description
+
+• Built an all-in-one app for Dkrop’s three news editions, with breaking news, investigations, analysis, and membership features.
+
+• Combined Nepali calendar and date conversion, tasks and reminders, document scanning and PDF tools, calculators, market rates, public resources, and 25+ games.
+
+• Supported multilingual reading, saved articles, reading preferences, and connected account access across supported editions.
+
+Store
+
+Display ONLY
+
+Android | iOS
+
+Android
+
+https://play.google.com/store/apps/details?id=com.dkrop.app
+
+iOS
+
+https://apps.apple.com/app/id6816310293
+
+Website
+
+https://dkrop.com
+
+Do NOT show URLs.
 
 PathBook Bhasa
 
@@ -378,6 +424,92 @@ iOS
 
 https://apps.apple.com/app/id6759668747
 
+DartsKey
+
+Subtitle
+
+Upcoming Release · In Active Development
+
+Technologies
+
+Flutter
+
+Bluetooth
+
+Realtime Sync
+
+In-App Purchase
+
+Game Logic
+
+Description
+
+• Implemented premium in-app purchase flows for monetized features.
+
+• Developed core darts game scoring, match flow, and gameplay rules.
+
+• Contributed to realtime synchronization, analytics, and performance-sensitive gameplay.
+
+Store
+
+Display ONLY
+
+Android | iOS (Pending Release)
+
+Android
+
+https://play.google.com/store/apps/details?id=com.key.darts.app
+
+iOS
+
+https://apps.apple.com/app/id6780764437
+
+Do NOT show URLs.
+
+Kova
+
+Subtitle
+
+Pet Care & Health Tracking
+
+Technologies
+
+Flutter
+
+REST APIs
+
+QR Code Tagging
+
+Push Notifications
+
+Local Storage
+
+Description
+
+• Developed a cross-platform pet care and health tracking application for managing multiple pet profiles.
+
+• Implemented health and medical records tracking, including vaccinations, documents, weight, and care history.
+
+• Built scheduled reminders and notifications for care events, medication schedules, and vet appointments.
+
+• Integrated QR pet tag linking, multi-user family sharing, and lost pet recovery workflows.
+
+Store
+
+Display ONLY
+
+Android | iOS (Pending Release)
+
+Android
+
+https://play.google.com/store/apps/details?id=com.kova.pet
+
+iOS
+
+https://apps.apple.com/app/id6778316209
+
+Do NOT show URLs.
+
 
 
 NATIVE IOS PROJECTS
@@ -415,6 +547,24 @@ Store
 iOS
 
 https://apps.apple.com/app/id1281894975
+
+Meet
+
+• Developed features for a live 1-on-1 video chat marketplace connecting clients with consultants and industry experts.
+
+• Built video calling workflows with automated meeting connection, session timer, recording options, and disconnection handling.
+
+• Implemented in-app calendar scheduling, pay-per-minute pricing, accounting tracking, and dynamic feed with safety controls.
+
+Store
+
+Display ONLY
+
+iOS
+
+Open
+
+https://apps.apple.com/app/id1474373104
 
 Coaching Zone
 

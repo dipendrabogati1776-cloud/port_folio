@@ -290,6 +290,7 @@ const projects = [
     googlePlayUrl:
         'https://play.google.com/store/apps/details?id=com.paathbook.app',
   ),
+
   ProjectItem(
     name: 'EventLocal',
     description:
