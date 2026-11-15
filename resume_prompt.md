@@ -32,11 +32,11 @@ Flutter & iOS Developer
 
 Location
 
-Jodhpur, Rajasthan, India 
+Doti, Nepal
 
 Phone
 
-+91 9057241670
++977 9821679778
 
 Email
 
@@ -245,7 +245,7 @@ https://play.google.com/store/apps/details?id=com.dkrop.app
 
 iOS
 
-https://apps.apple.com/app/id6816310293
+https://apps.apple.com/app/id6816310293(Pending Release)
 
 Website
 
@@ -424,47 +424,7 @@ iOS
 
 https://apps.apple.com/app/id6759668747
 
-DartsKey
 
-Subtitle
-
-Upcoming Release · In Active Development
-
-Technologies
-
-Flutter
-
-Bluetooth
-
-Realtime Sync
-
-In-App Purchase
-
-Game Logic
-
-Description
-
-• Implemented premium in-app purchase flows for monetized features.
-
-• Developed core darts game scoring, match flow, and gameplay rules.
-
-• Contributed to realtime synchronization, analytics, and performance-sensitive gameplay.
-
-Store
-
-Display ONLY
-
-Android | iOS (Pending Release)
-
-Android
-
-https://play.google.com/store/apps/details?id=com.key.darts.app
-
-iOS
-
-https://apps.apple.com/app/id6780764437
-
-Do NOT show URLs.
 
 Kova
 
@@ -498,7 +458,7 @@ Store
 
 Display ONLY
 
-Android | iOS (Pending Release)
+Android | iOS 
 
 Android
 
@@ -506,7 +466,7 @@ https://play.google.com/store/apps/details?id=com.kova.pet
 
 iOS
 
-https://apps.apple.com/app/id6778316209
+https://apps.apple.com/app/id6778316209(Pending Release)
 
 Do NOT show URLs.
 
@@ -609,3 +569,50 @@ Use bold headings and consistent spacing.
 All contact links and store links must be clickable.
 Show only the labels (LinkedIn, GitHub, Portfolio, Android, iOS) instead of raw URLs.
 The final output should be a polished, recruiter-ready PDF suitable for both Flutter and Native iOS job applications.
+
+
+
+
+
+
+DartsKey
+
+Subtitle
+
+Upcoming Release · In Active Development
+
+Technologies
+
+Flutter
+
+Bluetooth
+
+Realtime Sync
+
+In-App Purchase
+
+Game Logic
+
+Description
+
+• Implemented premium in-app purchase flows for monetized features.
+
+• Developed core darts game scoring, match flow, and gameplay rules.
+
+• Contributed to realtime synchronization, analytics, and performance-sensitive gameplay.
+
+Store
+
+Display ONLY
+
+Android | iOS (Pending Release)
+
+Android
+
+https://play.google.com/store/apps/details?id=com.key.darts.app
+
+iOS
+
+https://apps.apple.com/app/id6780764437
+
+Do NOT show URLs.
